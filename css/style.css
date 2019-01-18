@@ -1,0 +1,45 @@
+
+body{
+
+margin: 0%;
+padding: 0%;
+
+background-color: #f2f1ef;
+
+}
+
+
+.centrer{
+
+
+	text-align:center;
+}
+
+
+.footer-copyright{
+
+background-color: #aaa69d;
+
+text-align: center;
+
+
+}
+.col-md{
+
+background-color: #bdc3c7;
+
+
+
+}
+
+#moi{
+
+	float: right;
+	
+}
+.col-sm_1{
+
+background-color: #bdc3c7;
+
+
+}
